@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\Seguidor_Control\Seguidor_Control.mcppi
+Project1=..\Seguidor_Control\Bobinadora.mcppi
+[ActiveProject]
+Index=1

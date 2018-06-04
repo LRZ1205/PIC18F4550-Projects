@@ -1,0 +1,32 @@
+C:\Users\Luis Romero\Documents\Visual Studio 2012\Projects\USBVB_29\USBVB_29\bin\x86\Debug\USBVB_29.exe
+C:\Users\Luis Romero\Documents\Visual Studio 2012\Projects\USBVB_29\USBVB_29\bin\x86\Debug\USBVB_29.pdb
+C:\Users\Luis Romero\Documents\Visual Studio 2012\Projects\USBVB_29\USBVB_29\bin\x86\Debug\USBVB_29.xml
+C:\Users\Luis Romero\Documents\Visual Studio 2012\Projects\USBVB_29\USBVB_29\obj\x86\Debug\USBVB_29.frmUSB.resources
+C:\Users\Luis Romero\Documents\Visual Studio 2012\Projects\USBVB_29\USBVB_29\obj\x86\Debug\USBVB_29.Resources.resources
+C:\Users\Luis Romero\Documents\Visual Studio 2012\Projects\USBVB_29\USBVB_29\obj\x86\Debug\USBVB_29.vbproj.GenerateResource.Cache
+C:\Users\Luis Romero\Documents\Visual Studio 2012\Projects\USBVB_29\USBVB_29\obj\x86\Debug\USBVB_29.exe
+C:\Users\Luis Romero\Documents\Visual Studio 2012\Projects\USBVB_29\USBVB_29\obj\x86\Debug\USBVB_29.xml
+C:\Users\Luis Romero\Documents\Visual Studio 2012\Projects\USBVB_29\USBVB_29\obj\x86\Debug\USBVB_29.pdb
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\obj\x86\Debug\USBVB_29.exe
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\obj\x86\Debug\USBVB_29.xml
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\obj\x86\Debug\USBVB_29.pdb
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\bin\x86\Debug\USBVB_29.exe
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\bin\x86\Debug\USBVB_29.pdb
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\bin\x86\Debug\USBVB_29.xml
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\obj\x86\Debug\USBVB_29.vbprojResolveAssemblyReference.cache
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\obj\x86\Debug\USBVB_29.frmUSB.resources
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\obj\x86\Debug\USBVB_29.Resources.resources
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\obj\x86\Debug\USBVB_29.vbproj.GenerateResource.Cache
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\bin\x86\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\bin\x86\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\bin\x86\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\bin\x86\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\bin\x86\Debug\DevComponents.Instrumentation.dll
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\bin\x86\Debug\DevComponents.SuperGrid.Design.dll
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\bin\x86\Debug\DevComponents.TreeGX.dll
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\bin\x86\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\bin\x86\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\bin\x86\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\USBVB_29\USBVB_29\bin\x86\Debug\DevComponents.Instrumentation.xml
